@@ -65,9 +65,8 @@ Below are the HTML and CSS examples by slide that should be easy to copy into an
   <div>
     <h3>Serve at Camp!</h3>
     <p>
-        Shepherd young hearts and mind to Jesus. Break 
-        an arm on the ropes course! You can do it all 
-        at camp.
+        Shepherd young hearts and minds to Jesus. Break an 
+        arm on the ropes course! You can do it all at camp.
     </p>
     <a>Sign Up</a>
   </div>
@@ -114,7 +113,7 @@ Below are the HTML and CSS examples by slide that should be easy to copy into an
   <div style="padding: 6px;">
     <h3>Serve at Camp!</h3>
     <p>
-        Shepherd young hearts and mind to Jesus. Break an 
+        Shepherd young hearts and minds to Jesus. Break an 
         arm on the ropes course! You can do it all at camp.
     </p>
     <a class="btn btn-primary" href="https://rock.mychurch.com/Register">Sign Up</a>
@@ -122,7 +121,7 @@ Below are the HTML and CSS examples by slide that should be easy to copy into an
 </div>
 ```
 
-## Use the Style Tag to Define CSS for Entire Pages
+## The Most Common CSS Selectors
 
 ```html
 <p id="my-paragraph" class="my-class">Hello!</p>
@@ -189,7 +188,8 @@ Below are the HTML and CSS examples by slide that should be easy to copy into an
   <div>
     <h3>Serve at Camp!</h3>
     <p>
-        Shepherd young hearts and mind to Jesus. Break an arm on the ropes course! You can do it all at camp.
+        Shepherd young hearts and minds to Jesus. Break an 
+        arm on the ropes course! You can do it all at camp.
     </p>
     <a class="btn btn-primary" href="https://rock.mychurch.com/Register">Sign Up</a>
   </div>
@@ -215,7 +215,7 @@ Below are the HTML and CSS examples by slide that should be easy to copy into an
 </style>
 ```
 
-## Learn the Bootstrap Grid System
+## The Grid System Is Defined by Rows and Columns
 
 ```html
 <div class='row'>
